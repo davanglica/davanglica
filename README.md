@@ -1,5 +1,5 @@
 # 💫 Well hello, there!
-📚 Aspiring Software Engineer who loves, loves to read<br>🗻 Currently studying Control and Computer Engineering in Numazu National Institute of Technology, Japan<br>🪄 Interested in App Development and Machine Learning
+📚 Aspiring Software Engineer who loves, loves to read<br>🗻 Currently studying Control and Computer Engineering in [Numazu National Institute of Technology](https://www.numazu-ct.ac.jp/), Japan<br>🪄 Interested in App Development and Machine Learning
 
 
 # 💻 Tech Stack:
